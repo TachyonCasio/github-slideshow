@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Do androids dream of electric sheep
 Use the left arrow to go back!
